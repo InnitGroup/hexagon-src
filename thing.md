@@ -1,5 +1,3 @@
----
-
 # 🛠️ Hexagon Project Setup
 
 ## ⚙️ Development Environment
@@ -38,5 +36,3 @@ docker compose up -d
 
 If you have any questions, feel free to reach out.
 Happy coding! :3
-
----
